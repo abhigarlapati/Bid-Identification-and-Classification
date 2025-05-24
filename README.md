@@ -78,7 +78,7 @@ It helps procurement managers efficiently track and organize bids linked to proj
 	spring.datasource.password=" yourpassword "
 
 ## Swagger UI: http://localhost:8080/swagger-ui/index.html
-   **After running the project in your machine , simply access the link http://localhost:8080/swagger-ui/index.html to test all mmy end points**
+   **After running the project in your machine , it will opens the link http://localhost:8080/swagger-ui/index.html in the browser and it is used to test all mmy end points**
 
 ---
 
