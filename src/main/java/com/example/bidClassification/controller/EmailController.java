@@ -16,7 +16,7 @@ import com.example.bidClassification.model.Email;
 import com.example.bidClassification.service.EmailService;
 
 @RestController
-@RequestMapping("/processemail")
+@RequestMapping("/api/processemail")
 public class EmailController {
 	
 	@Autowired

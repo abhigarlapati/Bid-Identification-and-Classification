@@ -12,7 +12,7 @@ import com.example.bidClassification.dto.BidStatusCountDTO;
 import com.example.bidClassification.service.BidService;
 
 @RestController
-@RequestMapping("/report")
+@RequestMapping("/api/report")
 public class ReportController {
 	
 	@Autowired

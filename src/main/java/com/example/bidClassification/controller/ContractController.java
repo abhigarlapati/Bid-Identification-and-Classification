@@ -18,7 +18,7 @@ import com.example.bidClassification.model.Contract;
 import com.example.bidClassification.model.ContractStatus;
 import com.example.bidClassification.service.ContractService;
 @RestController
-@RequestMapping("/contract")
+@RequestMapping("/api/contract")
 public class ContractController {
 
 	 @Autowired
