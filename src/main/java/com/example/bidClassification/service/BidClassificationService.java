@@ -57,9 +57,7 @@ public class BidClassificationService {
             return "Uncategorized Or Other";
         }
 
-        // For simplicity, return the first matched category
         return matchedCategories.iterator().next(); 
-        // OR: return String.join(", ", matchedCategories); if you want all
     }
     
 	
